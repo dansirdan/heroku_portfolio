@@ -1,6 +1,6 @@
 # heroku_portfolio
 
-live @ https://danmonteton.heroku.com
+live @ https://danmonteton.herokuapp.com/
 
 - Updated Content
 - Mobile Friendly

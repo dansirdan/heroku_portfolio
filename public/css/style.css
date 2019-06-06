@@ -160,11 +160,11 @@ header .overlay {
   z-index: 1;
 }
 
-@media (pointer: coarse) and (hover: none) {
+/* @media (pointer: coarse) and (hover: none) {
   header {
     background: black no-repeat center center scroll;
   }
   header video {
     display: none;
   }
-}
+} */

@@ -11,6 +11,20 @@ ul.social-network li {
 	margin: 0 5px;
 }
 
+#contact,
+#info,
+#personal,
+#group,
+#about {
+  background-color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.card {
+  border-color: #24292e;
+}
+
 .contact-details {
     list-style: none;
     margin: 0;

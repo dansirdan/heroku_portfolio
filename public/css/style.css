@@ -1,5 +1,9 @@
 /* Sticky Footer Classes */
 /* footer social icons */
+.display-3 {
+  font-size: 3.5rem;
+}
+
 ul.social-network {
 	list-style: none;
 	display: inline;

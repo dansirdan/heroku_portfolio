@@ -33,12 +33,11 @@ if (process.env.NODE_ENV === "test") {
 }
 //this will listen to and show all activities on our terminal to
 //let us know what is happening in our app
-db.sequelize.sync(syncOptions).then(function () {
-  app.listen(PORT, function () {
-    console.log(
-      "🌎 curtain call... http://localhost:%s/ ",
-      PORT,
-      PORT
-    );
-  });
+app.listen(PORT, function () {
+  console.log(
+    "🌎 curtain call... http://localhost:%s/ ",
+    PORT,
+    PORT
+  );
 });
+
